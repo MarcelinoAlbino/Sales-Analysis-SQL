@@ -2,7 +2,7 @@
 
 Exploratory Data Analysis Sales Project Using SQL
 
-Este Projecto foi desenvolvido para simular o dia a dia de um Analista de Dados, focandos-se na extração, transformação e exploração dos dados de negócio. O Dataset contem o histórico de transações de vendas de uma empresa global, incluindo informações sobre valores faturados, quantidades vendidas, categoria de produtos, canais de distribuição e regiões de vendas. 
+O objetivo deste projeto é transformar dados transacionais brutos em inteligência de negócio. Utilizando a base de dados da GlobalSales Corp, procurei responder a 10 perguntas críticas da administração para avaliar a performance de vendas, comportamento de clientes, eficiência de produtos e dinâmica regional.
 
 Passo 1: Data Profilling: 
 Antes de inicia qualquer análise ou responder qualquer pergunta de negócio, realizei o processo de exploração de dados, diretamente no MYSQL Workbench para avaliar a qualidade e integridade dos dados. Os Principais pontos identificados foram: 
